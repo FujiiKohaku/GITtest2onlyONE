@@ -5,11 +5,10 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hello World!YEAH\n";
 
-  printf("hi kohaku");
+  printf("プロジェクト作り直し");
 
-  printf("これはプルリクエストブランチです.");
+  
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
