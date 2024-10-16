@@ -5,9 +5,9 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hello World!YEAH\n";
+  std::cout << "プロジェクトのつくりなおし\n";
 
-  printf("hi kohaku");
+  
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
