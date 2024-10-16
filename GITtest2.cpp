@@ -5,8 +5,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "プロジェクトのつくりなおし\n";
-
+    std::cout << "プロジェクトのつくりなおし\n";
   
 }
 
