@@ -8,6 +8,8 @@ int main() {
   std::cout << "Hello World!YEAH\n";
 
   printf("hi kohaku");
+
+  printf("これはプルリクエストブランチです.");
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
