@@ -5,9 +5,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "プロジェクトのつくりなおし\n";
-    std::cout << "マスターから編集\n";
-  
+
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
